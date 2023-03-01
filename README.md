@@ -1,5 +1,5 @@
 # ios-data-archive-stats
-Code for visualizing the number of bottle, CTD, current meter, and ADCP data in the IOS data archive. \
+Code for visualizing the number of bottle (BOT & CHE), CTD, current meter (CUR), and acoustic Doppler current profiler (ADCP) data in the Institute of Ocean Sciences (IOS) data archive. \
 \
 Requirements: Python >= 3.7 \
 \
