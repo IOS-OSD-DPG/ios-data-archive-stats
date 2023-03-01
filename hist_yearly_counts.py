@@ -1,3 +1,8 @@
+"""
+Author: Hana Hourston
+Date: Mar. 1, 2023
+"""
+
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
